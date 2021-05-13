@@ -54,4 +54,3 @@ print(names)
 # Delete list
 del names
 print(names)
-
